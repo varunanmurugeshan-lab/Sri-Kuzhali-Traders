@@ -1,0 +1,8 @@
+{
+  "name": "Sri Kuzhali Traders - Coconut & Copra Wholesale",
+  "description": "Direct farm procurement, in-house copra processing, and pan-India supply from Erode, Tamil Nadu since 2008.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home page (English) -->
+  <url>
+    <loc>https://www.srikuzhalitraders.com/</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.srikuzhalitraders.com/"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://www.srikuzhalitraders.com/?lang=ta"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.srikuzhalitraders.com/"/>
+  </url>
+
+  <!-- Sell page -->
+  <url>
+    <loc>https://www.srikuzhalitraders.com/#sell</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.srikuzhalitraders.com/#sell"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://www.srikuzhalitraders.com/?lang=ta#sell"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.srikuzhalitraders.com/#sell"/>
+  </url>
+
+  <!-- Buy page -->
+  <url>
+    <loc>https://www.srikuzhalitraders.com/#buy</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.srikuzhalitraders.com/#buy"/>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://www.srikuzhalitraders.com/?lang=ta#buy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.srikuzhalitraders.com/#buy"/>
+  </url>
+
+  <!-- About section -->
+  <url>
+    <loc>https://www.srikuzhalitraders.com/#about</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Products section -->
+  <url>
+    <loc>https://www.srikuzhalitraders.com/#products</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact section -->
+  <url>
+    <loc>https://www.srikuzhalitraders.com/#contact</loc>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
